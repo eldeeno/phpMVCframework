@@ -1,0 +1,15 @@
+{
+    "name": "eldeeno/php-mv-cframework",
+    "authors": [
+        {
+            "name": "Shamsuddeen Abdulkadir",
+            "email": "ibnabdulkadirb@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
