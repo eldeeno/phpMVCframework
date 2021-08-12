@@ -1,10 +1,1 @@
-<?php
-/**
- * @User:   Eldeeno
- * Date:    11/08/2021
- * Time:    9:39 PM
- */
-?>
-
-<h1>Contact</h1>
-
+<h1>Contact us</h1>
